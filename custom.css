@@ -1,1 +1,8 @@
-
+* {
+  letter-spacing: 2.5px;
+  line-height: 2.5rem;
+}
+p, li {
+  font-size: 39px;
+  
+}
