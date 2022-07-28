@@ -6,3 +6,9 @@ p, li {
   font-size: 19px;
   
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin 1rem 0;
+  overflow-x: auto;
+}
